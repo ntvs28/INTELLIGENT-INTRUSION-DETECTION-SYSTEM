@@ -1,0 +1,2 @@
+src_bytes,dst_bytes,duration,count,dst_host_srv_count,dst_host_count,hot,srv_count,dst_host_srv_serror_rate,srv_serror_rate,serror_rate,dst_host_serror_rate,logged_in,num_root,num_compromised,dst_host_same_srv_rate,same_srv_rate,dst_host_same_src_port_rate,dst_host_diff_srv_rate,srv_rerror_rate,attack_class
+0,0,0,1,1,1,236,0,0,0,0.0,0.0,0.0,0.0,0,0,0.58,0,0.0,1.0,portsweep
